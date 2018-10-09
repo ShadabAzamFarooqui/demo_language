@@ -1,4 +1,4 @@
-package comr.example.saurabh.demolanguage;
+package com.example.shadabazamfarooqui.demolanguage;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

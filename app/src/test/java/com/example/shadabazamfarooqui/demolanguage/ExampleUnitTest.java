@@ -1,4 +1,4 @@
-package comr.example.saurabh.demolanguage;
+package com.example.shadabazamfarooqui.demolanguage;
 
 import org.junit.Test;
 

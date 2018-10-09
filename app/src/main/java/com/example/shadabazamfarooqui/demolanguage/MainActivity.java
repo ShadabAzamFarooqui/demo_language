@@ -1,4 +1,4 @@
-package comr.example.saurabh.demolanguage;
+package com.example.shadabazamfarooqui.demolanguage;
 
 import android.app.Activity;
 import android.content.SharedPreferences;
